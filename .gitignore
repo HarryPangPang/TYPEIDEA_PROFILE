@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*db.sqlite3
+*.idea
+venv
+venv/*
